@@ -23,7 +23,6 @@ It is possible and necessary to control three characters with different abilitie
 ## Genre:
    - Rpg
    - Luta
-   - Guerra
 
 ### Development:
    - Rodrigo Oliveira Campos (@rodrigocam)
