@@ -1,11 +1,11 @@
-# Game Name
+# Conspiracy
 
 ## Description:
-   Breve descrição do jogo. Os dados de cada tópico devem conter um tab em seu início. Obedeça a formatação exata deste template.
-
+   It is possible and necessary to control three characters with different abilities. They are: E.T. Bilu, E.T. De Varginha and E.Temer. These skills are necessary to fulfill the main purpose to change the data of the government accounts to incriminate the current president of the country. Each phase consists of several challenges where cooperation between the characters is vital. The essential purpose of each phase is to change all the documents present and position all the characters on the ladder. As the player advances through the stages, more difficult puzzles are introduced, as well as more guards and detection systems.
+   
 ## Version:
-   Versão do jogo. Exemplo: 1.0, 2.0...
-
+   2.9
+   
 ## Year:
    Ano de lançamento do jogo.
 
@@ -32,19 +32,14 @@
 ## Genre:
    - Rpg
    - Luta
-   - Guerra
 
 ### Developers:
-   - Desenvolvedor 1
-   - Desenvolvedor 2
-   - Desenvolvedor N
+   - Rodrigo Oliveira Campos
+   - Pablo Diego da Silva
+   - Ronyell Henrique dos Santos
 
 ### Designers:
-   - Artista 1
-   - Artista 2
-   - Artista N
+   - Vitor Paz Guedes
 
 ### Musicians:
-   - Músico 1
-   - Músico 2
-   - Músico N
+   - Daniel Gillez Araújo Silva
