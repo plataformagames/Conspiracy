@@ -43,3 +43,14 @@
 
 ### Musicians:
    - Daniel Gillez Araújo Silva
+   
+## Downloads:
+ ### Debian:
+   - https://github.com/unbgames/game-template/releases/download/test3-w/myawesomegame_1.0.1-1_amd64.deb
+
+ ### RedHat:
+   - https://github.com/unbgames/game-template/releases/download/test3-w/myawesomegame-1.0.1-1.x86_64.rpm
+ 
+ ### Windows:
+   - https://github.com/unbgames/game-template/archive/test3-w.zip
+
